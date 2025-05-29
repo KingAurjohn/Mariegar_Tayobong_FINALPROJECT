@@ -174,7 +174,7 @@ textarea {
   display: block;
   width: 100%;
   padding: 10px;
-  background-color: #007bff;
+  background-color: #ff69b4;
   color: white;
   border: none;
   font-size: 16px;

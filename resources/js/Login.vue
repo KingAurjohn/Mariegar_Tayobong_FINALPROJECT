@@ -109,7 +109,7 @@ input {
   width: 100%;
   padding: 12px;
   font-size: 16px;
-  background-color: #27ae60;
+  background-color: #ff69b4;
   color: #fff;
   border: none;
   border-radius: 6px;

@@ -52,7 +52,7 @@ export default {
 }
 
 .modal-box.success {
-  background-color: #28a745;
+  background-color: #ff69b4;
   color: white;
 }
 

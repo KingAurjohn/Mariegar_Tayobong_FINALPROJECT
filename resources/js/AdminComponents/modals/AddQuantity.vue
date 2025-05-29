@@ -123,7 +123,7 @@ export default {
 
 /* Header */
 .modal-header {
-  background-color: #4CAF50;
+  background-color: #ff69b4;
   color: white;
   padding: 16px 20px;
   display: flex;
@@ -184,7 +184,7 @@ input[type="number"] {
   width: calc(100% - 40px);
   margin: 0 20px 20px 20px;
   padding: 10px;
-  background-color: #28a745;
+  background-color: #ff69b4;
   color: white;
   border: none;
   font-size: 16px;

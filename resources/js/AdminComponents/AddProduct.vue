@@ -158,7 +158,7 @@ export default {
 
 .form-group input:focus,
 .form-group textarea:focus {
-  border-color: #2ecc71;
+  border-color: #ff69b4;
   box-shadow: 0 0 5px rgba(46, 204, 113, 0.5);
   outline: none;
 }
@@ -171,7 +171,7 @@ export default {
 button[type="submit"] {
   width: 100%;
   padding: 12px;
-  background-color: #2ecc71;
+  background-color: #ff69b4;
   color: white;
   font-weight: bold;
   font-size: 16px;

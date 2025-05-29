@@ -229,7 +229,7 @@ input[type='password']:focus {
 .submit-btn {
   width: 100%;
   padding: 12px;
-  background-color: #3498db;
+  background-color: #ff69b4;
   border: none;
   color: white;
   font-weight: 600;
@@ -260,7 +260,7 @@ input[type='password']:focus {
 
 .error-msg {
   margin-top: 20px;
-  color: #e74c3c;
+  color: #27ae60;
   font-weight: 600;
   text-align: center;
 }
